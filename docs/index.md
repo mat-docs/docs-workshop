@@ -1,4 +1,3 @@
 # Hello
 
-Hi Ed!
-TEST TEST
+Hi Dave!
